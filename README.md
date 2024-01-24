@@ -8,7 +8,7 @@ This repository can be used as an API for other apps to help data integration.
 
 ## Configuration - SetUp
 
-You might need at first some environment variables or a *.venv* file at root.
+You might need at first some environment variables or a *.env* file at root. (There is a *template* sample also)
 
 - STRAVA_USER
 - STRAVA_PSW  (**It might be in base64 :D**)
