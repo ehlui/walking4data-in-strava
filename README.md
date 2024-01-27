@@ -20,8 +20,8 @@ You might need at first some environment variables or a *.env* file at root. (Th
 
 In the root we can use the **Makefile** to start the container.
 
- ![Screenshot to see how cookies are created on your first run](./docs/loadcreds_on_creation)
+ ![Screenshot to see how cookies are created on your first](./docs/loadcreds_on_creation)
 
 - Requirements:
-  - Docker or some other containerish
+  - Docker or some other container-like
 
