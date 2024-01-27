@@ -15,3 +15,13 @@ You might need at first some environment variables or a *.env* file at root. (Th
 
 
 ⚠️ As you will be using an account, you might be using it carefully. This scraper is using sessions to avoid logging multiple times, although each request should be used wisely.
+
+## Running
+
+In the root we can use the **Makefile** to start the container.
+
+ ![Screenshot to see how cookies are created on your first run](./docs/loadcreds_on_creation)
+
+- Requirements:
+  - Docker or some other containerish
+
